@@ -20,4 +20,4 @@ a la nube (servicios AWS, Google Cloud, etc.) y que haga el análisis del mercad
 buscando oportunidades de compra y me las notifique por correo.
 
 ![figuretaa](https://user-images.githubusercontent.com/113044990/189729138-ea46b6bf-1b80-499e-a38b-b65caf0301e4.png)
-Ejemplo de tendencias ascendentes y descendentes entre dos puntos del mismo color
+<p align="center"> Ejemplo de tendencias ascendentes y descendentes entre dos puntos del mismo color <p>
